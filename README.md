@@ -1,1 +1,1 @@
-This is website that features a few recipes, connected by a main index page. The goal of this website is to practice basic html concepts (add when finished and its also not 3 am LMAO)
+This is website that features a few recipes, connected by a main index page. The goal of this website is to practice basic html concepts (linking, adding images, headings, paragraphs, html formatting, and ordered/unordered lists).
