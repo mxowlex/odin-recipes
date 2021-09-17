@@ -1,1 +1,1 @@
-This is website that features a few recipes, connected by a main index page. The goal of this website is to practice basic html concepts (linking, adding images, headings, paragraphs, html formatting, and ordered/unordered lists).
+This is website that features a few recipes, connected by a main index page. The goal of this website is to practice basic html (linking, adding images, headings, paragraphs, html formatting, and ordered/unordered lists) and css (selectors, common properties, inheritance, specificity, rule order, and applying it to html) concepts.

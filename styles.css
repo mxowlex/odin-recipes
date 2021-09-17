@@ -1,0 +1,9 @@
+/* styles.css */
+
+img {
+    height: auto;
+    width: 360px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
